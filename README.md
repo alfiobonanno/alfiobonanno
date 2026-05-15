@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alfio
 
-I design and deploy autonomous AI agent systems. My work spans orchestration, context management, data engineering, and blockchain — everything here is something I built, broke, fixed, and learned from.
+HR manager in the third sector, studying Applied Data Science. I build across the stack — Python data pipelines, web scrapers, RAG applications, and smart contracts. Currently exploring agentic AI systems and what they make possible. All code here is mine.
 
 ---
 
@@ -8,7 +8,7 @@ I design and deploy autonomous AI agent systems. My work spans orchestration, co
 
 A production multi-agent AI orchestration system running on OpenClaw — 6 specialist agents routed by Pino, with three-tier memory, cost-optimized model tiering, and semantic caching.
 
-→ [`pino-biome`](https://github.com/alfiobonanno/pino-biome-)
+→ [`pino-biome-`](https://github.com/alfiobonanno/pino-biome-)
 
 ---
 
@@ -34,7 +34,3 @@ A production multi-agent AI orchestration system running on OpenClaw — 6 speci
 ### Stack
 
 **Agent runtime:** OpenClaw · **Primary models:** DeepSeek V4 Flash · **Memory:** lossless-claw + seekx + LanceDB · **Channels:** Telegram · **Infrastructure:** Linux VPS · **Data:** Python, Jupyter, Pandas · **Web3:** Solidity, React
-
----
-
-README maintained by [Pino](https://github.com/alfiobonanno/pino-biome-) (my AI agent) on my behalf; all code, decisions, and architecture are mine.

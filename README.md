@@ -2,10 +2,15 @@
 
 Applied Data Scientist · Python · ML/NLP · Agentic AI
 
+### About me
+HR manager in the third sector by day, applied data science student by training. This GitHub isn't a portfolio pitch — it's where I cement learning through practice. Every repo here is something I built to understand a concept deeper than a course alone would take me.
+
+I'm building toward a comprehensive skillset — deep in data science and AI, with fundamentals in frontend and general software development.
+
 ### What I'm working on
-- **Agentic AI** — building autonomous AI workflows and multi-agent systems (current focus)
-- Exploring how AI and automation can transform business domains like HR and operations — the projects here are building blocks toward real-world applications
-- Fine-tuning transformer models, deploying full-stack ML apps, and building data pipelines end-to-end
+- **Agentic AI** — building and orchestrating autonomous multi-agent systems (current focus)
+- Fine-tuning transformer models and deploying them as full-stack applications
+- Building data pipelines — scraping, structuring, and analysing real-world data
 
 ### Featured Projects
 

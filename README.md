@@ -3,10 +3,9 @@
 Applied Data Scientist · Python · ML/NLP · Agentic AI
 
 ### What I'm working on
-- Building neural networks from scratch to understand the math underneath
-- Fine-tuning transformer models and deploying them as full-stack apps
-- Scraping and structuring data at scale for analysis and RAG applications
-- Exploring the intersection of AI agents, blockchain, and automation
+- **Agentic AI** — building autonomous AI workflows and multi-agent systems (current focus)
+- Exploring how AI and automation can transform business domains like HR and operations — the projects here are building blocks toward real-world applications
+- Fine-tuning transformer models, deploying full-stack ML apps, and building data pipelines end-to-end
 
 ### Featured Projects
 

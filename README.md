@@ -1,6 +1,7 @@
 ## Hi, I'm Alfio 👋
 
 Applied Data Scientist · Python · ML/NLP · Agentic AI
+🌐 [alfiobonanno.vercel.app](https://alfiobonanno.vercel.app/)
 
 ### About me
 HR manager in the third sector by day, applied data science student by training. This GitHub isn't a portfolio pitch — it's where I cement learning through practice. Every repo here is something I built to understand a concept deeper than a course alone would take me.

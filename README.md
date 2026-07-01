@@ -15,11 +15,19 @@ I'm building toward a comprehensive skillset — deep in data science and AI, wi
 
 ### Featured Projects
 
-[![bank-marketing-nn-from-scratch](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=bank-marketing-nn-from-scratch)](https://github.com/alfiobonanno/bank-marketing-nn-from-scratch)
-[![AGNews-Bert-Tester-App](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=AGNews-Bert-Tester-App)](https://github.com/alfiobonanno/AGNews-Bert-Tester-App)
-
-[![react_solidity](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=react_solidity)](https://github.com/alfiobonanno/react_solidity)
-[![giallozafferano-scraper](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=giallozafferano-scraper)](https://github.com/alfiobonanno/giallozafferano-scraper)
+<a href="https://github.com/alfiobonanno/bank-marketing-nn-from-scratch">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=bank-marketing-nn-from-scratch" />
+</a>
+<a href="https://github.com/alfiobonanno/AGNews-Bert-Tester-App">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=AGNews-Bert-Tester-App" />
+</a>
+<br/>
+<a href="https://github.com/alfiobonanno/react_solidity">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=react_solidity" />
+</a>
+<a href="https://github.com/alfiobonanno/giallozafferano-scraper">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=giallozafferano-scraper" />
+</a>
 
 ### Tech I work with
 `Python` `NumPy` `Pandas` `PyTorch` `TensorFlow` `Transformers` `FastAPI` `React` `Solidity` `Docker` `MongoDB` `Scikit-learn`

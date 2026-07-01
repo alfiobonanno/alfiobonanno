@@ -15,11 +15,32 @@ I'm building toward a comprehensive skillset — deep in data science and AI, wi
 
 ### Featured Projects
 
-[![bank-marketing-nn-from-scratch](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=bank-marketing-nn-from-scratch)](https://github.com/alfiobonanno/bank-marketing-nn-from-scratch)
-[![AGNews-Bert-Tester-App](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=AGNews-Bert-Tester-App)](https://github.com/alfiobonanno/AGNews-Bert-Tester-App)
-
-[![react_solidity](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=react_solidity)](https://github.com/alfiobonanno/react_solidity)
-[![giallozafferano-scraper](https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=giallozafferano-scraper)](https://github.com/alfiobonanno/giallozafferano-scraper)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/alfiobonanno/bank-marketing-nn-from-scratch">🧠 bank-marketing-nn-from-scratch</a></h4>
+      <p>Neural Network from scratch on Bank Marketing dataset — NumPy vs TensorFlow vs PyTorch comparison</p>
+      <p><sub>Python · Jupyter Notebook</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/alfiobonanno/AGNews-Bert-Tester-App">📰 AGNews-Bert-Tester-App</a></h4>
+      <p>94.47% accurate BERT for news classification — FastAPI backend + React frontend with live demo</p>
+      <p><sub>Python · JavaScript · Docker</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/alfiobonanno/react_solidity">⛓️ react_solidity</a></h4>
+      <p>Full-stack dApp for minting and trading museum artefact tokens — React + Solidity + Hardhat</p>
+      <p><sub>JavaScript · Solidity · Docker</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/alfiobonanno/giallozafferano-scraper">🍝 giallozafferano-scraper</a></h4>
+      <p>Incremental web scraper for Italy's largest recipe site — MongoDB-backed, config-driven, cron-ready</p>
+      <p><sub>Python · MongoDB</sub></p>
+    </td>
+  </tr>
+</table>
 
 ### Tech I work with
 `Python` `NumPy` `Pandas` `PyTorch` `TensorFlow` `Transformers` `FastAPI` `React` `Solidity` `Docker` `MongoDB` `Scikit-learn`

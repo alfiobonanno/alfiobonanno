@@ -15,19 +15,32 @@ I'm building toward a comprehensive skillset — deep in data science and AI, wi
 
 ### Featured Projects
 
-<a href="https://github.com/alfiobonanno/bank-marketing-nn-from-scratch">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=bank-marketing-nn-from-scratch" />
-</a>
-<a href="https://github.com/alfiobonanno/AGNews-Bert-Tester-App">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=AGNews-Bert-Tester-App" />
-</a>
-<br/>
-<a href="https://github.com/alfiobonanno/react_solidity">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=react_solidity" />
-</a>
-<a href="https://github.com/alfiobonanno/giallozafferano-scraper">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=alfiobonanno&repo=giallozafferano-scraper" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/alfiobonanno/bank-marketing-nn-from-scratch">🏦 bank-marketing-nn-from-scratch</a></h4>
+      <p>Neural network built from scratch with NumPy to predict term-deposit subscriptions, benchmarked against TensorFlow and a tuned PyTorch model</p>
+      <sub><code>Python</code> <code>NumPy</code> <code>PyTorch</code> <code>TensorFlow</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/alfiobonanno/AGNews-Bert-Tester-App">📰 AGNews-Bert-Tester-App</a></h4>
+      <p>BERT fine-tuned on AG News (94.47% accuracy) with a live FastAPI + React demo for headline classification</p>
+      <sub><code>Python</code> <code>PyTorch</code> <code>Transformers</code> <code>FastAPI</code> <code>React</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/alfiobonanno/react_solidity">⛓️ react_solidity</a></h4>
+      <p>Museum artefact tokenisation dApp — ERC-721 NFT minting and marketplace built with Solidity, Hardhat and React</p>
+      <sub><code>React</code> <code>Solidity</code> <code>Hardhat</code> <code>Docker</code></sub>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/alfiobonanno/giallozafferano-scraper">🍝 giallozafferano-scraper</a></h4>
+      <p>Incremental single-file scraper for Italian recipes — cron-ready, config-driven, resume-safe</p>
+      <sub><code>Python</code> <code>requests</code> <code>Web Scraping</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tech I work with
 `Python` `NumPy` `Pandas` `PyTorch` `TensorFlow` `Transformers` `FastAPI` `React` `Solidity` `Docker` `MongoDB` `Scikit-learn`
